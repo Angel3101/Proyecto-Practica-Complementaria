@@ -1,7 +1,7 @@
 package exepsiones.ito.poo;
 
 public class Excepciondescenso extends Exception {
-	public Excepciondescenso(String message) {
+	public Excepciondescenso(message) {
 		super(message);
 	}
 
